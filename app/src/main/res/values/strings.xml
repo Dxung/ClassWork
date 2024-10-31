@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ClassWork</string>
+    <string name="input_header">nhap so n</string>
+    <string name="button1_text">so chan</string>
+    <string name="button2_text">so le</string>
+    <string name="button3_text">so chinh phuong</string>
+    <string name="result_noti">thong bao o day</string>
+</resources>
